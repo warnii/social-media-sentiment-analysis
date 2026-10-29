@@ -1,0 +1,36 @@
+text,sentiment
+"I absolutely love this product",positive
+"This is fantastic and works perfectly",positive
+"Great experience, highly recommend it",positive
+"That was a wonderful update",positive
+"I am very happy with the service",positive
+"Everything looks amazing",positive
+"Best purchase I have made",positive
+"Really impressed with the quality",positive
+"Thanks for the quick help",positive
+"This made my day",positive
+"I hate this product",negative
+"This is terrible and disappointing",negative
+"Awful experience, never again",negative
+"The update broke everything",negative
+"I am unhappy with the service",negative
+"This looks horrible",negative
+"Worst purchase ever",negative
+"Very poor quality",negative
+"Nobody helped me",negative
+"This made my day worse",negative
+"The meeting starts at 10 AM",neutral
+"I posted an update today",neutral
+"The package arrived on Tuesday",neutral
+"There are three options available",neutral
+"The event is scheduled for tomorrow",neutral
+"I am reading the announcement",neutral
+"The app has a new settings page",neutral
+"The store closes at 9 PM",neutral
+"Here is the link to the document",neutral
+"The video is about five minutes long",neutral
+"I like the design but the app is slow",negative
+"Not bad, but could be better",neutral
+"Love the idea, hate the execution",negative
+"Okay, it works as expected",neutral
+"Pretty good so far",positive
